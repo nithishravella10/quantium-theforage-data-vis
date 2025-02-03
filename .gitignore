@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+myvenv/
+my-venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables or secrets
+.env
+config.json
